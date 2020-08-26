@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\thefieryfrog\source\repos\Networking\Client\Source.cpp(117): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+C:\Users\thefieryfrog\source\repos\Networking\Client\Source.cpp(86): warning C4101: 'stat_buf': unreferenced local variable
+  Client.vcxproj -> C:\Users\thefieryfrog\source\repos\Networking\Debug\Client.exe
